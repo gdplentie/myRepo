@@ -1,0 +1,7 @@
+eu tenho um saco com 100 laranjas, 20 maçãs e 40 melancias
+
+levo 2 minutos para chupar três laranjas, duas maçãs e uma melancia
+levo 5 minutos para chupar cinco laranjas, quatro maçãs e duas melancias
+levo 8 minutos para chupar quatro laranjas, duas macãs e cinco melancias
+
+quanto tempo levarei pra conseguir chupar até esvaziar o saco? :3
