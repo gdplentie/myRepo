@@ -1,4 +1,5 @@
 player=require 'player'
+inimigos=require 'inimigos'
 
 iniciar()
 
