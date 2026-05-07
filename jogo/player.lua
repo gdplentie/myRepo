@@ -5,8 +5,14 @@ local player=function()
 
     end
 
+    function self:atacar()
+
+    end
+
     function self:atualizar()
         self:mover()
+
+        if apertou_tecla("espaço") then atacar()end
     end
 
 

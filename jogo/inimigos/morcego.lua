@@ -2,7 +2,7 @@ local morcego=function()
     local self={}
 
     function self:voar()
-        if(proximo_do_player())atacar_player()end
+        if(proximo_do_player())then atacar_player()end
     end
 
     function self:atualizar()
